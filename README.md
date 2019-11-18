@@ -6,3 +6,4 @@ Example repository using milestones for PTCs
 - Progress towards the PTC is tracked by opening issues that are assigned the milestone. 
 - PTC issues are handled in the same way other development issues
 - PTC milestones must begin with something like "PTC:" to distinguish them from other milestones.
+- Milestone templates are not available
